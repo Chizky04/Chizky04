@@ -41,3 +41,9 @@ Insights and Visualization Analysis
 The below insights from the datasets provided were gotten by querying the data using SQL Lite Database Management System. The query codes can be found in below in this report. Also the insights from the queries were graphically represented using Tableau public.
 
 The Datasets were imported and queried using SQL Lite
+
+Visualization
+Tableau public was a very powerful tool used for data analysis and visualization.
+
+![Main Dashboard](https://github.com/Chizky04/Education-For-All-Organisation/assets/119705578/05384ce8-5597-4d33-85e5-f8d4eb2c4cb4)
+https://public.tableau.com/app/profile/umebosi.chisom/viz/EducationForAllDashboard_16710655267570/Dashboard12
